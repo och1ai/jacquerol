@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @jacquerol
-I'm a computer science student, I work on electronic projects and modding in my spare time
+I'm a computer science student, I work on electronic projects and mods in my spare time
 
 I'm also a minecraft addict
 <!---
