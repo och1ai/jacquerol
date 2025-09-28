@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jacquerol
+# 👋 Hi, I’m @och1ai
 I'm a computer science student, I work on electronic projects and mods in my spare time.
 <!---
 jacquerol/jacquerol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
